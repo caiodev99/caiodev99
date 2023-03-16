@@ -8,12 +8,7 @@ Atualmente, estou trabalhando no projeto Demoday 🚀, que é uma [Breve Descri�
 Estou sempre aprendendo coisas novas e atualmente estou focando em melhorar minhas habilidades em [Liste as áreas em que você está aprendendo atualmente ou gostaria de aprender mais] 📚.
 
 ## 🛠️ Tecnologias
-Front-end: HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- , JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-, React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-, Vue.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-, Angular <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular <i class="devicon-angularjs-plain colored"></i>
  🌐
 Back-end: Node.js, Express, Django, Ruby on Rails, Flask 🚀
 Bancos de Dados: MongoDB, MySQL, PostgreSQL, Redis, Firebase 🗃️
