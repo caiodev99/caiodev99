@@ -8,8 +8,7 @@ Atualmente, estou trabalhando no projeto Demoday 🚀, que é uma [Breve Descri�
 Estou sempre aprendendo coisas novas e atualmente estou focando em melhorar minhas habilidades em [Liste as áreas em que você está aprendendo atualmente ou gostaria de aprender mais] 📚.
 
 ## 🛠️ Tecnologias
-Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular <i class="devicon-angularjs-plain colored"></i>
- 🌐
+Front-end: HTML, CSS, JavaScript, React, Vue.js, Angular 🌐
 Back-end: Node.js, Express, Django, Ruby on Rails, Flask 🚀
 Bancos de Dados: MongoDB, MySQL, PostgreSQL, Redis, Firebase 🗃️
 Plataformas em nuvem: AWS, Google Cloud, Azure, Heroku ☁️
